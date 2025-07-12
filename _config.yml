@@ -3,13 +3,16 @@ description: Cayman is a clean, responsive theme for GitHub Pages.
 show_downloads: false
 theme: jekyll-theme-cayman
 
-conference_name: NExT++ Research Center
-conference_www: ""
+conference_name: International Workshop on Multimodal Generative Search and Recommendation
+conference_www: "on the CIKM 2025"
 # conference_www: "Venue & Date: TBD"
-conference_venue: ""
+conference_venue: "COEX, SEOUL, KOREA"
+conference_time: "Friday 14 November 2025, 14:00 - 17:30"
 # conference_venue: ""
 # conference_intro: "Will be held in 2024"
 conference_intro: ""
+
+
 
 github:
   zip_url: http://www.google.com
