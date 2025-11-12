@@ -919,3 +919,10 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #fed136
 }
+
+.speaker-avatar {
+  width: 240px;
+  height: 240px;
+  border-radius: 50%;
+  object-fit: cover;
+}
